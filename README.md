@@ -1,5 +1,10 @@
 <img width="1222" alt="image" src="https://github.com/user-attachments/assets/d5c7ecb3-300f-4d26-86a2-90fd721e91bc" />
 
+### Matched Jobs, 8:00 AM in the Mailbox
+<img width="1247" alt="Snipaste_2025-05-17_22-24-29" src="https://github.com/user-attachments/assets/bfc98bae-54ad-4c26-bca0-82d37ea5e570" />
+
+### Details and Cover Letters, Automatically Save to Notion Database
+<img width="1496" alt="image" src="https://github.com/user-attachments/assets/7fde5b3c-90cd-469b-ba3c-f2e5aa118aa8" />
 
 ## Automated Job Hunting Assistant (LinkedIn + Indeed): Get Best Job Matches via Email + Generate Cover Letters + Save to Notion
 
